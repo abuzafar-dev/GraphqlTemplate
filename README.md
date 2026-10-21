@@ -2,6 +2,13 @@
 
 Django + graphene-django asosidagi GraphQL API shablon. Misol: mualliflar va kitoblar.
 
+## Quick start
+
+```bash
+make run     # creates .venv and .env, installs deps, starts the app
+make test    # checks + tests
+```
+
 ## Ishga tushirish
 
 ```bash
